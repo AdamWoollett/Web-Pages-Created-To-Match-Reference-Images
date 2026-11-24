@@ -13,45 +13,46 @@ A preview of what this project looks like when deployed can be viewed on Vercel 
 - CSS3
 
 ## Project Structure
+```
 Web-Pages-Created-To-Match-Reference-Images/<br>
-└─Fonts/<br>
-&emsp;&emsp;└─Roboto/<br>
-&emsp;&emsp;&emsp;&emsp;├─ Roboto-Black.ttf<br>
-&emsp;&emsp;&emsp;&emsp;├─ Roboto-BlackItalic.ttf<br>
-&emsp;&emsp;&emsp;&emsp;├─ Roboto-Bold.ttf<br>
-&emsp;&emsp;&emsp;&emsp;├─ Roboto-BoldItalic.ttf<br>
-&emsp;&emsp;&emsp;&emsp;├─ Roboto-Italic.ttf<br>
-&emsp;&emsp;&emsp;&emsp;├─ Roboto-Light.ttf<br>
-&emsp;&emsp;&emsp;&emsp;├─ Roboto-LightItalic.ttf<br>
-&emsp;&emsp;&emsp;&emsp;├─ Roboto-Medium.ttf<br>
-&emsp;&emsp;&emsp;&emsp;├─ Roboto-MediumItalic.ttf<br>
-&emsp;&emsp;&emsp;&emsp;├─ Roboto-Regular.ttf<br>
-&emsp;&emsp;&emsp;&emsp;├─ Roboto-This.ttf<br>
-&emsp;&emsp;&emsp;&emsp;└─ Roboto-ThinItalic.ttf<br>
-└─Images/<br>
-&emsp;&emsp;├─ contact-page-image.jpg<br>
-&emsp;&emsp;├─ gallery1.jpg<br>
-&emsp;&emsp;├─ gallery2.jpg<br>
-&emsp;&emsp;├─ gallery3.jpg<br>
-&emsp;&emsp;├─ gallery4.jpg<br>
-&emsp;&emsp;├─ gallery5.jpg<br>
-&emsp;&emsp;├─ gallery6.jpg<br>
-&emsp;&emsp;├─ gallery7.jpg<br>
-&emsp;&emsp;├─ gallery8.jpg<br>
-&emsp;&emsp;└─ hero-image.jpg<br>
-└─Original-Design-Documentation/<br>
-&emsp;&emsp;├─ About.png<br>
-&emsp;&emsp;├─ Contact.png<br>
-&emsp;&emsp;├─ Home.png<br>
-&emsp;&emsp;├─ Portfolio.png<br>
-&emsp;&emsp;├─ Services.png<br>
-&emsp;&emsp;└─ Summary of page design.txt<br>
-└─Photos-of-final-product/<br>
-&emsp;&emsp;├─ About.png<br>
-&emsp;&emsp;├─ Contact.png<br>
-&emsp;&emsp;├─ Portfolio.png<br>
-&emsp;&emsp;├─ Services.png<br>
-&emsp;&emsp;└─ index.png<br>
+└─Fonts/<br>                                      # Font family used for the page.
+├    └─Roboto/<br>
+├        ├─ Roboto-Black.ttf<br>
+├        ├─ Roboto-BlackItalic.ttf<br>
+├        ├─ Roboto-Bold.ttf<br>
+├        ├─ Roboto-BoldItalic.ttf<br>
+├        ├─ Roboto-Italic.ttf<br>
+├        ├─ Roboto-Light.ttf<br>
+├        ├─ Roboto-LightItalic.ttf<br>
+├        ├─ Roboto-Medium.ttf<br>
+├        ├─ Roboto-MediumItalic.ttf<br>
+├        ├─ Roboto-Regular.ttf<br>
+├        ├─ Roboto-This.ttf<br>
+├        └─ Roboto-ThinItalic.ttf<br>
+└─Images/<br>                                      # Images used on the page.
+├    ├─ contact-page-image.jpg<br>
+├    ├─ gallery1.jpg<br>
+├    ├─ gallery2.jpg<br>
+├    ├─ gallery3.jpg<br>
+├    ├─ gallery4.jpg<br>
+├    ├─ gallery5.jpg<br>
+├    ├─ gallery6.jpg<br>
+├    ├─ gallery7.jpg<br>
+├    ├─ gallery8.jpg<br>
+├    └─ hero-image.jpg<br>
+└─Original-Design-Documentation/<br>              # The reference images and design document supplied at the start of the project.
+├    ├─ About.png<br>
+├    ├─ Contact.png<br>
+├    ├─ Home.png<br>
+├    ├─ Portfolio.png<br>
+├    ├─ Services.png<br>
+├    └─ Summary of page design.txt<br>
+└─Photos-of-final-product/<br>                    # Photos of the final design of each web page I had created for the project.
+├    ├─ About.png<br>
+├    ├─ Contact.png<br>
+├    ├─ Portfolio.png<br>
+├    ├─ Services.png<br>
+├    └─ index.png<br>
 ├─ About.html<br>
 ├─ Contact.html<br>
 ├─ Portfolio.html<br>
@@ -59,3 +60,4 @@ Web-Pages-Created-To-Match-Reference-Images/<br>
 ├─ Services.html<br>
 ├─ index.html<br>
 └─ style.css<br>
+```
