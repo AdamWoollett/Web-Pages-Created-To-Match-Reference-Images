@@ -53,11 +53,11 @@ Web-Pages-Created-To-Match-Reference-Images/
 ├    ├─ Portfolio.png
 ├    ├─ Services.png
 ├    └─ index.png
-├─ About.html
-├─ Contact.html
-├─ Portfolio.html
+├─ About.html                                # Page about the client Nova.
+├─ Contact.html                              # Contact Form page.
+├─ Portfolio.html                            # Page of portfolio images.
 ├─ README.md
-├─ Services.html
-├─ index.html
-└─ style.css
+├─ Services.html                             # Page detailing services offered.
+├─ index.html                                # Landing page.
+└─ style.css                                 # Styling for the site.
 ```
